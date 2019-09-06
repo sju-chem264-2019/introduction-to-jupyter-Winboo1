@@ -516,7 +516,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": 24,
    "metadata": {},
    "outputs": [
     {
@@ -556,13 +556,6 @@
     "    if (i==0):\n",
     "        print(i,\"is zero\")"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
